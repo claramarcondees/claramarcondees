@@ -1,4 +1,4 @@
- Oii, sou maria clara, aluna do alura. Sou casas com o Justin Bieber (ele nao sabe ainda)
+ Oii, sou maria clara, aluna do alura. Sou casada com o Justin Bieber (ele nao sabe ainda)
  Estou me desenvolvendo na linguagem JavaScript e utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
 ![](https://64.media.tumblr.com/46a5dc9a204c84c8338af062d44a522c/tumblr_n5s2w9C1kk1r91uyxo1_r1_500.gifv)
 
